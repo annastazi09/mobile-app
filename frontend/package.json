@@ -1,0 +1,13 @@
+{
+    "name": "mobile",
+    "private": true,
+    "version": "1.0.0",
+    "description": "Mobile app code",
+    "repository": "https://github.com/annastazi09/mobile-app",
+    "license": "MIT",
+    "devDependencies": {
+        "live-server": "^1.2.0"
+    },
+    "dependencies": {},
+    "scripts": {}
+}
